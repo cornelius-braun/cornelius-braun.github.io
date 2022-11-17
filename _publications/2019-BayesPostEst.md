@@ -3,6 +3,7 @@ title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bay
 collection: publications
 permalink: /publication/2019-bayespostest
 date: 2019-10-01
+pubtype: "academic"
 venue: 'Journal of Open Source Software'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
 link: 'https://doi.org/10.21105/joss.01722'

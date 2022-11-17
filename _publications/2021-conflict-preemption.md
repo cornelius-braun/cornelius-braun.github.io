@@ -3,6 +3,7 @@ title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt 
 collection: publications
 permalink: /publication/2021-conflict-preemption
 date: 2021-06-28
+pubtype: "conference"
 venue: 'Conflict management and Peace Science'
 paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://doi.org/10.1177/07388942211015242'
