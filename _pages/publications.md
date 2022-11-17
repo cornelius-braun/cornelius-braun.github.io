@@ -2,11 +2,10 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-Please see also my [Google Scholar profile](https://scholar.google.de/citations?user=s21cwpsAAAAJ&hl=de).
-
+<p>Please see also my <a href="https://scholar.google.de/citations?user=s21cwpsAAAAJ&hl=de" style="text-decoration: none">Google Scholar profile</a>.</p>
 
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}

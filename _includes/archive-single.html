@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' and post.paperurl %}
-        <a href="{{ post.paperurl }}">title</a>
+        <a href="{{ post.paperurl }}" style="text-decoration: none">{{ title }}</a>
       {% elsif post.collection == 'publications'}
         {{ title }}
       {% elsif post.link %}
@@ -50,17 +50,17 @@
       {% endif %}
       <br>
       {% if post.journal %}
-        <a href="{{ post.link }}">[journal]</a>
+        [<a href="{{ post.link }}">journal</a>]
       {% elsif post.conference %}
-        <a href="{{ post.link }}">[conference]</a> 
+        [<a href="{{ post.link }}">conference</a>] 
       {% elsif post.arxiv %}
-        <a href="{{ post.link }}">[arxiv]</a> 
+        [<a href="{{ post.link }}">arxiv</a>] 
       {% endif %}
       {% if post.code %}
-        <a href="{{ post.code }}">[code]</a> 
+        [<a href="{{ post.code }}">code</a>] 
       {% endif %}
       {% if post.video %}
-        <a href="{{ post.video }}">[video]</a> 
+        [<a href="{{ post.video }}">video</a>] 
       {% endif %}
       </p>
     
