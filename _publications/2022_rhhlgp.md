@@ -9,4 +9,5 @@ paperurl: '/files/pdf/2022_rhhlgp.pdf'
 link: 'https://arxiv.org/abs/2110.03420'
 citation: 'Cornelius V. Braun, Joaquim Ortiz-Haro, and Ozgur S. Oguz Marc Toussaint. In Proc. of the Int. Conf. on Intelligent Robots and Systems (IROS), 2022.'
 code: 'https://github.com/cornelius-braun/rhh-lgp'
+video: 'https://youtu.be/Yz9B7KCsbfE'
 ---
