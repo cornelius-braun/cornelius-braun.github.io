@@ -28,7 +28,7 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' and post.paperurl %}
-        <a href="{{ post.paperurl }}" style="text-decoration: none">{{ title }}</a>
+        <a href="{{ post.paperurl }}">{{ title }}</a>
       {% elsif post.collection == 'publications'}
         {{ title }}
       {% elsif post.link %}

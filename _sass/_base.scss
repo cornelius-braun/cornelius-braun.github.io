@@ -112,9 +112,6 @@ blockquote {
 /* links */
 
 a {
-  &link {
-    text-decoration: none;
-  }
   &:focus {
     @extend %tab-focus;
   }
@@ -185,6 +182,11 @@ ol li {
 li ul,
 li ol {
   margin-top: 0.5em;
+}
+
+/* zoom */
+#my{
+  zoom: 90%;
 }
 
 /*
