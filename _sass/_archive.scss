@@ -16,7 +16,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -41,7 +41,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -53,7 +53,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0em;
     border-bottom: none;
   }
 }
