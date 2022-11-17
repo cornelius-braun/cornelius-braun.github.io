@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Cornelius V. Braun"
-  avatar           : "" # add image for top left
+  avatar           : "bio-photo.png" # add image for top left
   bio              : "Computer Scientist"
   location         :
   employer         :
